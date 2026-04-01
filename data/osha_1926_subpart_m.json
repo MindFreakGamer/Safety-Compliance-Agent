@@ -1,0 +1,432 @@
+{
+  "regulation_body": "OSHA",
+  "standard": "29 CFR 1926 Subpart M - Fall Protection",
+  "scope": "Construction industry fall protection requirements",
+  "last_reviewed": "2025",
+  "sections": {
+    "1926.500": {
+      "title": "Scope, Application, and Definitions",
+      "requirements": [
+        {
+          "id": "500-1",
+          "requirement": "Subpart M applies to all construction workplaces where workers are exposed to fall hazards",
+          "applies_to": "All construction employers",
+          "keywords": ["scope", "application", "construction"]
+        },
+        {
+          "id": "500-2",
+          "requirement": "Competent Person is defined as one who is capable of identifying existing and predictable hazards and who has authorization to take prompt corrective measures",
+          "definition": true,
+          "keywords": ["competent person", "qualified", "authorized"]
+        },
+        {
+          "id": "500-3",
+          "requirement": "Walking/working surface means any surface, whether horizontal or vertical, on which an employee walks or works",
+          "definition": true,
+          "keywords": ["walking surface", "working surface"]
+        }
+      ]
+    },
+    "1926.501": {
+      "title": "Duty to Have Fall Protection",
+      "requirements": [
+        {
+          "id": "501-1",
+          "section": "1926.501(b)(1)",
+          "requirement": "Each employee on a walking/working surface with an unprotected side or edge which is 6 feet or more above a lower level shall be protected by the use of guardrail systems, safety net systems, or personal fall arrest systems",
+          "trigger_height_feet": 6,
+          "protection_methods": ["guardrail system", "safety net system", "personal fall arrest system"],
+          "keywords": ["6 feet", "unprotected edge", "fall protection required", "trigger height"],
+          "common_violations": [
+            "Using a height threshold other than 6 feet (e.g., 10 feet)",
+            "Not specifying all three acceptable protection methods",
+            "Failing to require protection at unprotected sides AND edges"
+          ]
+        },
+        {
+          "id": "501-2",
+          "section": "1926.501(b)(2)",
+          "requirement": "Each employee on a walking/working surface shall be protected from falling through holes more than 6 feet above a lower level by personal fall arrest systems, covers, or guardrail systems",
+          "trigger_height_feet": 6,
+          "keywords": ["holes", "covers", "floor holes", "openings"],
+          "common_violations": [
+            "Not addressing floor holes and openings separately from edges",
+            "Missing cover requirements for holes"
+          ]
+        },
+        {
+          "id": "501-3",
+          "section": "1926.501(b)(3)",
+          "requirement": "Each employee on a walking/working surface shall be protected from objects falling through holes by covers",
+          "keywords": ["falling objects", "covers", "holes"],
+          "common_violations": [
+            "Addressing only fall-into hazards but not fall-through-hole hazards"
+          ]
+        },
+        {
+          "id": "501-4",
+          "section": "1926.501(b)(4)",
+          "requirement": "Each employee on ramps, runways, and other walkways shall be protected from falling 6 feet or more by guardrail systems",
+          "trigger_height_feet": 6,
+          "specific_method": "guardrail system",
+          "keywords": ["ramps", "runways", "walkways"],
+          "common_violations": [
+            "Allowing personal fall arrest on ramps instead of guardrails",
+            "Not addressing ramps and runways specifically"
+          ]
+        },
+        {
+          "id": "501-5",
+          "section": "1926.501(b)(10)",
+          "requirement": "Each employee working on a low-slope roof with unprotected sides and edges 6 feet or more above lower levels shall be protected by guardrail systems, safety net systems, personal fall arrest systems, or a combination of warning line system and guardrail/safety net/personal fall arrest/safety monitoring system",
+          "trigger_height_feet": 6,
+          "keywords": ["roofing", "low-slope roof", "warning line"],
+          "common_violations": [
+            "Not specifying warning line system option for low-slope roofs",
+            "Using only a safety monitor without a warning line on low-slope roofs"
+          ]
+        },
+        {
+          "id": "501-6",
+          "section": "1926.501(b)(11)",
+          "requirement": "Each employee on a steep roof with unprotected sides and edges 6 feet or more above lower levels shall be protected by guardrail systems with toeboards, safety net systems, or personal fall arrest systems",
+          "trigger_height_feet": 6,
+          "keywords": ["steep roof", "toeboards"],
+          "common_violations": [
+            "Not differentiating between steep and low-slope roof requirements",
+            "Missing toeboard requirement for guardrails on steep roofs"
+          ]
+        },
+        {
+          "id": "501-7",
+          "section": "1926.501(b)(13)",
+          "requirement": "Each employee engaged in residential construction activities 6 feet or more above lower levels shall be protected by guardrail systems, safety net systems, or personal fall arrest systems unless employer can demonstrate alternative plan is equivalent",
+          "trigger_height_feet": 6,
+          "keywords": ["residential construction"],
+          "common_violations": [
+            "Claiming residential construction exemption without documented alternative plan"
+          ]
+        },
+        {
+          "id": "501-8",
+          "section": "1926.501(c)(1)",
+          "requirement": "Each employee in a hoist area shall be protected from falling 6 feet or more by guardrail systems or personal fall arrest systems. If guardrail is removed for hoisting, employee must be protected by personal fall arrest system",
+          "trigger_height_feet": 6,
+          "keywords": ["hoist area", "hoisting"],
+          "common_violations": [
+            "Not addressing temporary guardrail removal during hoisting operations"
+          ]
+        }
+      ]
+    },
+    "1926.502": {
+      "title": "Fall Protection Systems Criteria and Practices",
+      "requirements": [
+        {
+          "id": "502-1",
+          "section": "1926.502(b)(1)",
+          "requirement": "Top edge of guardrail systems shall be 42 inches plus or minus 3 inches above the walking/working surface",
+          "guardrail_top_rail_height_inches": 42,
+          "tolerance_inches": 3,
+          "acceptable_range_inches": {"min": 39, "max": 45},
+          "keywords": ["guardrail height", "top rail", "42 inches"],
+          "common_violations": [
+            "Specifying incorrect guardrail height (e.g., 36 inches or 48 inches)",
+            "Not specifying the ±3 inch tolerance",
+            "Using a single height without acceptable range"
+          ]
+        },
+        {
+          "id": "502-2",
+          "section": "1926.502(b)(2)",
+          "requirement": "Midrails shall be installed at a height midway between the top edge of the guardrail system and the walking/working surface",
+          "midrail_position": "midway between top rail and surface",
+          "keywords": ["midrail", "mid-rail", "intermediate rail"],
+          "common_violations": [
+            "Not specifying midrail requirement",
+            "Incorrect midrail height specification"
+          ]
+        },
+        {
+          "id": "502-3",
+          "section": "1926.502(b)(3)",
+          "requirement": "Top rail of guardrail system must withstand a force of at least 200 pounds applied in any outward or downward direction at any point along the top edge",
+          "top_rail_force_pounds": 200,
+          "force_direction": "outward or downward",
+          "keywords": ["200 pounds", "force", "top rail strength", "load capacity"],
+          "common_violations": [
+            "Not specifying load-bearing capacity of guardrails",
+            "Specifying incorrect force requirement",
+            "Missing directional force specification"
+          ]
+        },
+        {
+          "id": "502-4",
+          "section": "1926.502(b)(4)",
+          "requirement": "Midrails, screens, mesh, intermediate vertical members, or equivalent intermediate structural members must withstand a force of at least 150 pounds applied in any downward or outward direction at any point",
+          "midrail_force_pounds": 150,
+          "keywords": ["midrail strength", "150 pounds", "mesh", "screen"],
+          "common_violations": [
+            "Not specifying midrail load capacity",
+            "Confusing midrail and top rail force requirements"
+          ]
+        },
+        {
+          "id": "502-5",
+          "section": "1926.502(b)(5)",
+          "requirement": "If wire rope is used for top rails, it must be flagged at not more than 6-foot intervals with high-visibility material",
+          "wire_rope_flag_interval_feet": 6,
+          "keywords": ["wire rope", "flagging", "visibility"],
+          "common_violations": [
+            "Not addressing wire rope guardrail visibility requirements"
+          ]
+        },
+        {
+          "id": "502-6",
+          "section": "1926.502(b)(6)",
+          "requirement": "When guardrail systems are used at holes, they shall be erected on all unprotected sides or edges of the hole",
+          "keywords": ["holes", "guardrails around holes"],
+          "common_violations": [
+            "Not specifying guardrail coverage on all sides of holes"
+          ]
+        },
+        {
+          "id": "502-7",
+          "section": "1926.502(b)(7)",
+          "requirement": "Guardrail systems shall be surfaced to prevent injury from punctures, lacerations, or snagging of clothing",
+          "keywords": ["smooth surface", "no sharp edges", "guardrail surface"],
+          "common_violations": [
+            "Not specifying surface condition requirements for guardrails"
+          ]
+        },
+        {
+          "id": "502-8",
+          "section": "1926.502(b)(8)",
+          "requirement": "The ends of top rails and midrails shall not overhang the terminal posts except where such overhang does not constitute a projection hazard",
+          "keywords": ["overhang", "terminal posts", "projection hazard"],
+          "common_violations": [
+            "Not addressing guardrail end conditions"
+          ]
+        },
+        {
+          "id": "502-9",
+          "section": "1926.502(c)(1)",
+          "requirement": "Safety nets shall be installed as close as practicable under the walking/working surface but not more than 30 feet below",
+          "max_net_distance_feet": 30,
+          "keywords": ["safety net", "30 feet", "net placement"],
+          "common_violations": [
+            "Not specifying maximum distance for safety net installation",
+            "Incorrect maximum distance specification"
+          ]
+        },
+        {
+          "id": "502-10",
+          "section": "1926.502(c)(4)",
+          "requirement": "Safety nets shall extend outward from the outermost projection of the work surface as follows: up to 5 feet - minimum 8 feet outward; 5-10 feet - minimum 10 feet outward; more than 10 feet - minimum 13 feet outward",
+          "net_extension_table": {
+            "up_to_5_feet": "8 feet minimum",
+            "5_to_10_feet": "10 feet minimum",
+            "more_than_10_feet": "13 feet minimum"
+          },
+          "keywords": ["net extension", "outward projection"],
+          "common_violations": [
+            "Not specifying net extension distances",
+            "Using a single extension distance for all heights"
+          ]
+        },
+        {
+          "id": "502-11",
+          "section": "1926.502(d)(1)",
+          "requirement": "Personal fall arrest systems shall limit maximum arresting force on an employee to 1,800 pounds when used with a body harness",
+          "max_arrest_force_pounds": 1800,
+          "keywords": ["arresting force", "1800 pounds", "body harness", "deceleration"],
+          "common_violations": [
+            "Not specifying maximum arresting force",
+            "Allowing body belts for fall arrest (prohibited since 1998)"
+          ]
+        },
+        {
+          "id": "502-12",
+          "section": "1926.502(d)(4)",
+          "requirement": "Personal fall arrest systems shall be rigged so that an employee can neither free fall more than 6 feet nor contact any lower level",
+          "max_free_fall_feet": 6,
+          "keywords": ["free fall", "6 feet", "fall distance"],
+          "common_violations": [
+            "Not specifying maximum free fall distance",
+            "Incorrect free fall distance specification"
+          ]
+        },
+        {
+          "id": "502-13",
+          "section": "1926.502(d)(5)",
+          "requirement": "Personal fall arrest systems shall bring an employee to a complete stop and limit maximum deceleration distance to 3.5 feet",
+          "max_deceleration_distance_feet": 3.5,
+          "keywords": ["deceleration", "3.5 feet", "stopping distance"],
+          "common_violations": [
+            "Not specifying deceleration distance limits",
+            "Incorrect deceleration distance"
+          ]
+        },
+        {
+          "id": "502-14",
+          "section": "1926.502(d)(6)",
+          "requirement": "Personal fall arrest systems shall be inspected prior to each use for wear, damage, and other deterioration, and defective components shall be removed from service",
+          "keywords": ["inspection", "prior to use", "defective equipment", "pre-use inspection"],
+          "common_violations": [
+            "Not requiring pre-use inspection",
+            "Not specifying removal of defective equipment from service"
+          ]
+        },
+        {
+          "id": "502-15",
+          "section": "1926.502(d)(15)",
+          "requirement": "Anchorages used for attachment of personal fall arrest equipment shall be independent of any anchorage being used to support or suspend platforms and shall be capable of supporting at least 5,000 pounds per employee attached",
+          "anchorage_strength_pounds": 5000,
+          "keywords": ["anchorage", "5000 pounds", "anchor point", "tie-off"],
+          "common_violations": [
+            "Not specifying anchorage strength requirement",
+            "Incorrect anchorage strength (e.g., 3,000 pounds)",
+            "Not requiring independent anchorage from platform supports",
+            "Not specifying per-employee capacity"
+          ]
+        },
+        {
+          "id": "502-16",
+          "section": "1926.502(d)(16)",
+          "requirement": "Personal fall arrest systems and components subjected to impact loading shall be immediately removed from service and not used again until inspected and determined to be undamaged and suitable for reuse",
+          "keywords": ["impact loading", "remove from service", "post-fall inspection"],
+          "common_violations": [
+            "Not requiring immediate removal after impact loading",
+            "Not specifying post-fall inspection requirement"
+          ]
+        },
+        {
+          "id": "502-17",
+          "section": "1926.502(d)(17)",
+          "requirement": "The employer shall provide for prompt rescue of employees in the event of a fall or shall assure the self-rescue capability of employees",
+          "keywords": ["rescue plan", "prompt rescue", "self-rescue"],
+          "common_violations": [
+            "No rescue plan documented",
+            "Not addressing suspension trauma",
+            "Not specifying rescue procedures or self-rescue capability"
+          ]
+        },
+        {
+          "id": "502-18",
+          "section": "1926.502(d)(18)",
+          "requirement": "Body belts are not acceptable as part of a personal fall arrest system. Body belts may only be used in positioning device systems",
+          "keywords": ["body belt", "body harness", "full body harness"],
+          "common_violations": [
+            "Allowing body belts for fall arrest",
+            "Not specifying full body harness requirement",
+            "Not distinguishing between fall arrest and positioning systems"
+          ]
+        },
+        {
+          "id": "502-19",
+          "section": "1926.502(f)(1)",
+          "requirement": "Warning line systems shall be erected around all sides of the roof work area not less than 6 feet from the roof edge",
+          "warning_line_distance_feet": 6,
+          "keywords": ["warning line", "roof edge", "6 feet from edge"],
+          "common_violations": [
+            "Incorrect warning line distance from edge",
+            "Not erecting warning lines on all sides"
+          ]
+        },
+        {
+          "id": "502-20",
+          "section": "1926.502(h)",
+          "requirement": "Safety monitoring systems shall be used only on low-slope roofs and only in conjunction with warning line systems (except for roofing work on low-slope roofs)",
+          "keywords": ["safety monitor", "safety monitoring system"],
+          "common_violations": [
+            "Using safety monitoring as sole protection on non-roofing work",
+            "Not pairing safety monitoring with warning line systems"
+          ]
+        },
+        {
+          "id": "502-21",
+          "section": "1926.502(j)",
+          "requirement": "Toeboards shall be at least 3.5 inches tall from the top edge of the toeboard to the walking/working surface and shall withstand a force of at least 50 pounds applied in any downward or outward direction",
+          "toeboard_min_height_inches": 3.5,
+          "toeboard_force_pounds": 50,
+          "keywords": ["toeboard", "toe board", "3.5 inches"],
+          "common_violations": [
+            "Not specifying toeboard height requirement",
+            "Missing toeboard force resistance specification"
+          ]
+        }
+      ]
+    },
+    "1926.503": {
+      "title": "Training Requirements",
+      "requirements": [
+        {
+          "id": "503-1",
+          "section": "1926.503(a)(1)",
+          "requirement": "The employer shall provide a training program for each employee who might be exposed to fall hazards. The program shall enable each employee to recognize the hazards of falling and the procedures to be followed to minimize these hazards",
+          "keywords": ["training program", "fall hazard training", "employee training"],
+          "common_violations": [
+            "No documented training program",
+            "Training not covering hazard recognition",
+            "Not training ALL exposed employees"
+          ]
+        },
+        {
+          "id": "503-2",
+          "section": "1926.503(a)(2)",
+          "requirement": "The employer shall assure that each employee has been trained by a competent person qualified in: the nature of fall hazards in the work area, correct procedures for erecting/maintaining/disassembling/inspecting fall protection systems, use and operation of guardrail systems, personal fall arrest systems, safety net systems, warning line systems, safety monitoring systems, controlled access zones, and other protection used, role of each employee in the safety monitoring system, limitations on the use of mechanical equipment during roofing work, correct procedures for equipment and materials handling, and the role of employees in fall protection plans",
+          "trainer_qualification": "competent person",
+          "keywords": ["competent person", "trainer", "training topics", "qualified trainer"],
+          "required_training_topics": [
+            "Nature of fall hazards in the work area",
+            "Correct procedures for erecting, maintaining, disassembling, and inspecting fall protection systems",
+            "Use and operation of fall protection systems",
+            "Role of employees in safety monitoring systems",
+            "Limitations on mechanical equipment during roofing work",
+            "Correct procedures for equipment and materials handling",
+            "Role of employees in fall protection plans"
+          ],
+          "common_violations": [
+            "Training not conducted by a competent person",
+            "Not covering all required training topics",
+            "Missing specific topics from the training curriculum"
+          ]
+        },
+        {
+          "id": "503-3",
+          "section": "1926.503(b)(1)",
+          "requirement": "The employer shall verify compliance with training requirements by preparing a written certification record. The certification shall contain the name of the employee trained, the date of training, and the signature of the competent person who conducted the training",
+          "certification_requirements": [
+            "Employee name",
+            "Date of training",
+            "Signature of competent person trainer"
+          ],
+          "keywords": ["certification", "written record", "training record", "documentation"],
+          "common_violations": [
+            "No written training certification",
+            "Missing employee names on records",
+            "Missing training dates",
+            "Missing trainer signature",
+            "No verification of competent person status of trainer"
+          ]
+        },
+        {
+          "id": "503-4",
+          "section": "1926.503(c)(1)",
+          "requirement": "When the employer has reason to believe that any affected employee who has already been trained does not have the understanding and skill required, the employer shall retrain each such employee. Circumstances requiring retraining include: changes in the workplace rendering previous training obsolete, changes in fall protection systems or equipment, and inadequacies in an affected employee's knowledge or use of fall protection systems",
+          "retraining_triggers": [
+            "Changes in workplace rendering previous training obsolete",
+            "Changes in fall protection systems or equipment",
+            "Inadequacies in employee knowledge or use of fall protection"
+          ],
+          "keywords": ["retraining", "refresher training", "re-certification"],
+          "common_violations": [
+            "No retraining policy documented",
+            "Not identifying specific retraining triggers",
+            "No process for evaluating employee competency after training"
+          ]
+        }
+      ]
+    }
+  }
+}

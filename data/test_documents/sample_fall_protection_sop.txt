@@ -1,0 +1,205 @@
+FALL PROTECTION SAFETY PROGRAM
+Acme Industrial Services Inc.
+Document No: SOP-FP-2024-001
+Revision: 3
+Effective Date: January 15, 2024
+Prepared by: Safety Department
+
+================================================================================
+1. PURPOSE AND SCOPE
+================================================================================
+
+This Fall Protection Safety Program establishes the requirements and procedures for
+protecting employees from fall hazards during construction and maintenance activities
+performed by Acme Industrial Services Inc.
+
+This program applies to all employees, subcontractors, and visitors who may be
+exposed to fall hazards at any Acme Industrial worksite.
+
+================================================================================
+2. REGULATORY REFERENCES
+================================================================================
+
+This program is designed to comply with the following regulations:
+- OSHA 29 CFR 1926 Subpart M - Fall Protection
+- ANSI Z359.1 - Safety Requirements for Personal Fall Arrest Systems
+
+================================================================================
+3. DEFINITIONS
+================================================================================
+
+Competent Person: An individual who has attended a fall protection awareness course
+and has at least 2 years of field experience.
+
+Qualified Person: A person with a recognized degree or professional certificate who
+has demonstrated knowledge of fall protection.
+
+Walking/Working Surface: Any horizontal surface on which an employee walks or works.
+
+================================================================================
+4. FALL PROTECTION REQUIREMENTS
+================================================================================
+
+4.1 General Requirements
+
+Fall protection is required when employees are working at heights of 10 feet or
+more above a lower level. At these heights, employees must be protected by one
+of the following methods:
+
+  a) Guardrail systems
+  b) Personal fall arrest systems
+
+4.2 Leading Edges
+
+Employees working within 6 feet of a leading edge that is 10 feet or more above
+a lower level must use personal fall arrest systems or guardrail systems.
+
+4.3 Hoist Areas
+
+Workers in hoist areas shall be protected by guardrail systems. When guardrails
+need to be removed for hoisting operations, work shall proceed with caution.
+
+4.4 Holes and Openings
+
+All floor holes greater than 2 inches in diameter must be covered or guarded.
+Covers must be clearly labeled "HOLE" or "COVER" and must be secured to prevent
+accidental displacement.
+
+4.5 Ramps and Walkways
+
+Employees on ramps, runways, or walkways with unprotected sides shall use
+appropriate fall protection measures when heights exceed the general requirement.
+
+4.6 Roofing Work
+
+Employees engaged in roofing activities on low-slope roofs (4:12 pitch or less)
+shall be protected by safety monitoring systems. A designated safety monitor
+shall be assigned to watch over workers on the roof.
+
+For steep-slope roofs, employees shall use personal fall arrest systems.
+
+================================================================================
+5. FALL PROTECTION SYSTEMS SPECIFICATIONS
+================================================================================
+
+5.1 Guardrail Systems
+
+Guardrail systems shall meet the following specifications:
+- Top rail height: 36 inches above the walking/working surface
+- Mid-rail installed halfway between the top rail and the surface
+- Guardrails must be able to withstand a force of 150 pounds applied
+  in any direction
+- Smooth surfaced to prevent punctures or lacerations
+
+5.2 Personal Fall Arrest Systems (PFAS)
+
+5.2.1 Body Harnesses and Belts
+
+Employees may use either full body harnesses or body belts when
+working at heights. All harnesses must meet ANSI Z359.1 requirements.
+
+5.2.2 Anchorage Points
+
+Anchorage points used for personal fall arrest shall be:
+- Capable of supporting at least 3,000 pounds per employee
+- Located above the worker's center of gravity when possible
+
+5.2.3 Lanyards and Deceleration Devices
+
+- Maximum lanyard length: 6 feet
+- All lanyards must include a deceleration device or be self-retracting
+- Snap hooks must be self-locking type
+
+5.2.4 Fall Distance Calculations
+
+Before using personal fall arrest systems, a competent person must verify
+that sufficient clearance exists below the worker. Free fall should be
+limited to a reasonable distance to prevent contact with lower levels.
+
+5.3 Safety Nets
+
+When safety nets are used as fall protection:
+- Nets shall be installed within 15 feet below the work surface
+- Nets must extend outward from the work surface at least 8 feet
+  regardless of the installation height
+- Drop test required after initial installation
+
+================================================================================
+6. EQUIPMENT INSPECTION AND MAINTENANCE
+================================================================================
+
+6.1 Pre-Use Inspection
+
+All fall protection equipment should be visually inspected before each shift
+by the user. Damaged or worn equipment shall be tagged and reported to the
+supervisor.
+
+6.2 Periodic Inspection
+
+A competent person shall conduct formal inspections of all fall protection
+equipment on a quarterly basis. Inspection records shall be maintained.
+
+6.3 Post-Incident Requirements
+
+Equipment involved in a fall event shall be evaluated by the supervisor to
+determine if it can continue to be used. Equipment showing visible damage
+should be retired.
+
+================================================================================
+7. RESCUE PROCEDURES
+================================================================================
+
+In the event of a fall, the site supervisor shall call 911 and wait for
+emergency services to arrive. Workers should not attempt self-rescue unless
+absolutely necessary. All fall events shall be reported within 24 hours.
+
+================================================================================
+8. TRAINING
+================================================================================
+
+8.1 Initial Training
+
+All employees who work at heights shall receive fall protection training
+before their first work assignment. Training shall cover:
+- How to use fall protection equipment
+- Hazard recognition
+- Emergency procedures
+
+8.2 Training Frequency
+
+Refresher training shall be conducted annually for all employees.
+
+8.3 Training Records
+
+The safety department shall maintain records of all training activities,
+including:
+- Employee name
+- Date of training
+- Topics covered
+
+================================================================================
+9. SPECIAL ACTIVITIES
+================================================================================
+
+9.1 Scaffolding
+
+Workers on scaffolds at heights above the general fall protection threshold
+must use appropriate fall protection. Refer to the company scaffolding program
+for specific requirements.
+
+9.2 Ladder Safety
+
+Employees using portable ladders must maintain three points of contact at all
+times. Fall protection is generally not required when using ladders properly.
+
+================================================================================
+10. PROGRAM REVIEW
+================================================================================
+
+This Fall Protection Safety Program shall be reviewed annually by the Safety
+Department and updated as necessary to reflect changes in regulations,
+equipment, or work practices.
+
+Approved by:
+John Smith, Safety Director
+Date: January 15, 2024

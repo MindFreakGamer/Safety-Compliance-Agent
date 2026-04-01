@@ -1,0 +1,277 @@
+FALL PROTECTION SAFETY PROGRAM
+Summit Construction Group LLC
+Document No: SOP-FP-2025-001
+Revision: 5
+Effective Date: March 1, 2025
+Prepared by: Safety Department
+
+================================================================================
+1. PURPOSE AND SCOPE
+================================================================================
+
+This Fall Protection Safety Program establishes the requirements and procedures for
+protecting all employees from fall hazards during construction activities performed
+by Summit Construction Group LLC. This program applies to all employees,
+subcontractors, and visitors at any Summit Construction worksite.
+
+================================================================================
+2. REGULATORY REFERENCES
+================================================================================
+
+This program is designed to comply with:
+- OSHA 29 CFR 1926 Subpart M - Fall Protection
+- OSHA 29 CFR 1926.500 - Scope, Application, and Definitions
+- OSHA 29 CFR 1926.501 - Duty to Have Fall Protection
+- OSHA 29 CFR 1926.502 - Fall Protection Systems Criteria and Practices
+- OSHA 29 CFR 1926.503 - Training Requirements
+- ANSI Z359.1 - Safety Requirements for Personal Fall Arrest Systems
+
+================================================================================
+3. DEFINITIONS
+================================================================================
+
+Competent Person: One who is capable of identifying existing and predictable
+hazards in the surroundings or working conditions which are unsanitary, hazardous,
+or dangerous to employees, and who has authorization to take prompt corrective
+measures to eliminate them.
+
+Qualified Person: One who, by possession of a recognized degree, certificate, or
+professional standing, or who by extensive knowledge, training, and experience, has
+successfully demonstrated the ability to solve or resolve problems relating to the
+subject matter, the work, or the project.
+
+Walking/Working Surface: Any surface, whether horizontal or vertical, on which an
+employee walks or works, including but not limited to floors, roofs, ramps, bridges,
+runways, formwork, and concrete reinforcing steel.
+
+================================================================================
+4. FALL PROTECTION REQUIREMENTS
+================================================================================
+
+4.1 General Requirements
+
+Fall protection shall be provided for each employee on a walking/working surface
+with an unprotected side or edge which is 6 feet or more above a lower level.
+Employees shall be protected by the use of one or more of the following systems:
+
+  a) Guardrail systems
+  b) Safety net systems
+  c) Personal fall arrest systems
+
+4.2 Leading Edges
+
+Each employee who is constructing a leading edge 6 feet or more above lower levels
+shall be protected from falling by guardrail systems, safety net systems, or
+personal fall arrest systems.
+
+4.3 Hoist Areas
+
+Each employee in a hoist area shall be protected from falling 6 feet or more by
+guardrail systems or personal fall arrest systems. When guardrail systems or
+portions thereof must be removed to facilitate hoisting operations, employees shall
+be protected by personal fall arrest systems.
+
+4.4 Holes and Openings
+
+Each employee on a walking/working surface shall be protected from falling through
+holes more than 6 feet above a lower level by personal fall arrest systems, covers,
+or guardrail systems erected around such holes. Covers shall be secured to prevent
+accidental displacement, shall support at least twice the weight of employees and
+equipment that may be imposed on the cover, and shall be clearly labeled HOLE or
+COVER.
+
+Each employee on a walking/working surface shall be protected from objects falling
+through holes by covers.
+
+4.5 Ramps and Walkways
+
+Each employee on ramps, runways, and other walkways shall be protected from falling
+6 feet or more to lower levels by guardrail systems.
+
+4.6 Roofing Work — Low-Slope Roofs
+
+Each employee engaged in roofing activities on low-slope roofs with unprotected
+sides and edges 6 feet or more above lower levels shall be protected by guardrail
+systems, safety net systems, personal fall arrest systems, or a combination of
+warning line system and guardrail system, safety net system, personal fall arrest
+system, or safety monitoring system.
+
+Warning line systems shall be erected around all sides of the roof work area not
+less than 6 feet from the roof edge. Safety monitoring systems shall only be used
+in conjunction with warning line systems on low-slope roofs.
+
+4.7 Roofing Work — Steep-Slope Roofs
+
+Each employee on a steep roof with unprotected sides and edges 6 feet or more above
+lower levels shall be protected by guardrail systems with toeboards, safety net
+systems, or personal fall arrest systems.
+
+================================================================================
+5. FALL PROTECTION SYSTEMS SPECIFICATIONS
+================================================================================
+
+5.1 Guardrail Systems
+
+Guardrail systems shall meet the following specifications:
+- Top rail height shall be 42 inches (plus or minus 3 inches) above the
+  walking/working surface, providing an acceptable range of 39 to 45 inches.
+- Midrails shall be installed at a height midway between the top edge of the
+  guardrail system and the walking/working surface.
+- Top rails shall withstand a force of at least 200 pounds applied in any outward
+  or downward direction at any point along the top edge.
+- Midrails shall withstand a force of at least 150 pounds applied in any downward
+  or outward direction at any point.
+- If wire rope is used for top rails, it shall be flagged at not more than 6-foot
+  intervals with high-visibility material.
+- Guardrail systems shall be surfaced to prevent injury from punctures, lacerations,
+  or snagging of clothing.
+- The ends of top rails and midrails shall not overhang terminal posts except where
+  such overhang does not constitute a projection hazard.
+- When guardrail systems are used at holes, they shall be erected on all unprotected
+  sides or edges of the hole.
+
+5.2 Personal Fall Arrest Systems (PFAS)
+
+5.2.1 Body Harnesses
+
+All employees using personal fall arrest systems shall wear full body harnesses.
+Body belts are not acceptable as part of a personal fall arrest system. Body belts
+may only be used as part of a positioning device system.
+
+5.2.2 Anchorage Points
+
+Anchorages used for attachment of personal fall arrest equipment shall be:
+- Independent of any anchorage being used to support or suspend platforms
+- Capable of supporting at least 5,000 pounds per employee attached
+
+5.2.3 Lanyards and Deceleration Devices
+
+- Maximum lanyard length: 6 feet
+- All lanyards shall include a shock-absorbing deceleration device or be of the
+  self-retracting type
+- Snap hooks shall be of the self-locking type
+- Personal fall arrest systems shall limit maximum arresting force on an employee
+  to 1,800 pounds when used with a body harness
+- Maximum deceleration distance shall not exceed 3.5 feet
+
+5.2.4 Fall Distance Requirements
+
+Personal fall arrest systems shall be rigged so that an employee can neither free
+fall more than 6 feet nor contact any lower level. Before any work at height, a
+competent person shall calculate the total fall clearance distance required,
+including free fall distance, deceleration distance, harness stretch, and a safety
+margin.
+
+5.3 Safety Nets
+
+When safety nets are used as fall protection:
+- Nets shall be installed as close as practicable under the walking/working surface
+  but not more than 30 feet below.
+- Net extension requirements based on vertical distance from working surface to net:
+  * Up to 5 feet below: minimum 8 feet outward
+  * 5 to 10 feet below: minimum 10 feet outward
+  * More than 10 feet below: minimum 13 feet outward
+- Drop tests shall be performed after initial installation and before use.
+
+5.4 Toeboards
+
+Toeboards shall be at least 3.5 inches in height from the top edge to the
+walking/working surface and shall withstand a force of at least 50 pounds applied
+in any downward or outward direction.
+
+================================================================================
+6. EQUIPMENT INSPECTION AND MAINTENANCE
+================================================================================
+
+6.1 Pre-Use Inspection
+
+All fall protection equipment shall be inspected prior to each use for wear,
+damage, and other deterioration. Defective components shall be immediately removed
+from service and shall not be used until inspected by a competent person and
+determined to be undamaged and suitable for reuse.
+
+6.2 Periodic Inspection
+
+A competent person shall conduct formal inspections of all fall protection
+equipment on a quarterly basis. Inspection records shall be maintained and include
+the date of inspection, the equipment inspected, the name of the inspector, and
+any deficiencies found.
+
+6.3 Post-Impact Requirements
+
+Equipment that has been subjected to impact loading in a fall event shall be
+immediately removed from service and shall not be used again until inspected by a
+competent person and determined to be undamaged and suitable for reuse.
+
+================================================================================
+7. RESCUE PROCEDURES
+================================================================================
+
+The employer shall provide for prompt rescue of employees in the event of a fall
+or shall assure the self-rescue capability of employees. The following rescue
+provisions shall be maintained at all times when employees are working at height:
+
+7.1 On-site rescue equipment shall be available and readily accessible.
+7.2 At least two employees trained in rescue procedures shall be present on site.
+7.3 A rescue plan specific to each work area shall be developed before work begins.
+7.4 Rescue shall be initiated within minutes of a fall to prevent suspension trauma.
+7.5 Emergency services (911) shall be contacted in addition to on-site rescue.
+7.6 All rescue equipment shall be inspected before each shift.
+7.7 Rescue drills shall be conducted at least annually.
+
+================================================================================
+8. TRAINING
+================================================================================
+
+8.1 Initial Training
+
+The employer shall provide a training program for each employee who might be
+exposed to fall hazards. Training shall be conducted by a competent person and
+shall enable each employee to recognize the hazards of falling and the procedures
+to be followed to minimize these hazards. Training shall cover:
+
+- Nature of fall hazards in the work area
+- Correct procedures for erecting, maintaining, disassembling, and inspecting
+  fall protection systems
+- Use and operation of guardrail systems, personal fall arrest systems, safety
+  net systems, warning line systems, safety monitoring systems, controlled access
+  zones, and other protection to be used
+- Role of each employee in the safety monitoring system when used
+- Limitations on the use of mechanical equipment during roofing work on low-slope
+  roofs
+- Correct procedures for the handling and storage of equipment and materials
+- Role of employees in fall protection plans
+
+8.2 Training Records
+
+The employer shall verify compliance with training requirements by preparing a
+written certification record. The written certification shall contain:
+
+- Name of the employee trained
+- Date(s) of training
+- Signature of the competent person who conducted the training
+
+8.3 Retraining
+
+Retraining shall be provided when the employer has reason to believe that any
+affected employee does not have the understanding and skill required. Circumstances
+requiring retraining include:
+
+- Changes in the workplace that render previous training obsolete
+- Changes in the types of fall protection systems or equipment to be used
+- Inadequacies in an affected employee's knowledge or use of fall protection
+  systems indicate that the employee has not retained the requisite understanding
+  or skill
+
+In addition, refresher training shall be conducted annually for all employees.
+
+================================================================================
+9. PROGRAM REVIEW
+================================================================================
+
+This Fall Protection Safety Program shall be reviewed annually and updated as
+necessary to reflect changes in regulations, equipment, or work practices.
+
+Approved by:
+Sarah Chen, Director of Safety
+Date: March 1, 2025
